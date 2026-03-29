@@ -1,5 +1,5 @@
 context:
-  version: 8.0.0
+  version: "9.0.0"
 
 package:
   name: open-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/open-cli/-/open-cli-${{ version }}.tgz
-  sha256: e6efcefe794808118f21acb081a2efd3a80cca6f49a1ac76928d0de5a40cb79f
+  sha256: 8e3d5ef162541da90ba32392ed201628c4c65aa69bab7583a578bdc256bb35bd
 
 build:
   number: 0
